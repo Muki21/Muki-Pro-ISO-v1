@@ -26,6 +26,7 @@ Odaberite jedan od dva načina za pokretanje instalacije:
 ### 🔌 NAČIN A: Preko USB Flash-a
 
 **1.Priprema USB-a:**
+[![Download Rufus](https://img.shields.io/badge/DOWNLOAD-Rufus-238636?style=for-the-badge&logo=rufus&logoColor=white)](https://release-assets.githubusercontent.com/github-production-release-asset/2810292/e10c6f00-ca6b-43ea-90dc-0a03ff5b438b?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-11T11%3A47%3A02Z&rscd=attachment%3B+filename%3Drufus-4.14.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-11T10%3A46%3A16Z&ske=2026-05-11T11%3A47%3A02Z&sks=b&skv=2018-11-09&sig=urBnZaNA%2BV1gNompKbTggc2O6laVIQqlH%2FlDeYNsdLA%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3ODQ5NzI0MiwibmJmIjoxNzc4NDk2OTQyLCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.ZzryVEEiGhhJeBCZoeHlyZ6iqizHkT5b8bWUWdsN9LU&response-content-disposition=attachment%3B%20filename%3Drufus-4.14.exe&response-content-type=application%2Foctet-stream)
 - Koristite **Rufus**
 - Kliknite na **SELECT** i odaberite **Muki LZX 10.iso**
 - Sve opcije će se automatski postaviti (GPT/UEFI)
