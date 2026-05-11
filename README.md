@@ -68,7 +68,7 @@ Od tog crnog prostora napravi novu particiju (New Simple Volume), formatiraj je 
 
 ## 2. Podešavanje u WinNTSetup alatu:
 
-[![Download WinNTSetup](https://img.shields.io/badge/DOWNLOAD-WinNTSetup-238636?style=for-the-badge&logo=windows&logoColor=white)](https://www.majorgeeks.com/mg/getmirror/winntsetup_64_bit,1.html)
+[![Download WinNTSetup](https://img.shields.io/badge/DOWNLOAD-WinNTSetup-238636?style=for-the-badge&logo=windows&logoColor=white)](https://www.majorgeeks.com/index.php?ct=files&action=download)
 
 Pokreni WinNTSetup
 
