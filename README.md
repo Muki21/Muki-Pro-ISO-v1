@@ -23,9 +23,9 @@ Odaberite jedan od dva načina za pokretanje instalacije:
 
 ---
 
-### 🟢 NAČIN A: Preko USB Flash-a
+### 🔌 NAČIN A: Preko USB Flash-a
 
-**1. Priprema USB-a:**
+**1.Priprema USB-a:**
 - Koristite **Rufus**
 - Kliknite na **SELECT** i odaberite **Muki LZX 10.iso**
 - Sve opcije će se automatski postaviti (GPT/UEFI)
@@ -39,7 +39,7 @@ Da bi sistem radio ispravno, u BIOS-u podesite sljedeće:
 - Restartujte PC i stiskajte taster za Boot Menu (F12, F11, F8 ili Del...)
 - Odaberite vaš USB
 
-### 🔵 Preko postojećeg sistema (Recovery)
+###  Preko postojećeg sistema (Recovery)
 
 - Idite na: **Settings** -> **Update & Security** -> **Recovery**
 - Pod **Advanced startup** kliknite **Restart now**
