@@ -10,7 +10,7 @@ Sistem je prilagođen za:
 - **Gaming:** Smanjen input lag, optimizovan mrežni stack i stabilniji FPS
 
 ## 📥 Download
-[ ![Download Muki Pro](https://img.shields.io/badge/Download-Muki_Pro_ISO-blue?style=for-the-badge&logo=google-drive) ](https://drive.google.com/uc?export=download&id=1F4IspALWMuhKj9kkO_P8HVtJ3wDc-dvi)
+[ ![Download Muki Pro](https://img.shields.io/badge/Download-Muki_Pro_ISO-blue?style=for-the-badge&logo=google-drive) ](https://drive.usercontent.google.com/download?id=1F4IspALWMuhKj9kkO_P8HVtJ3wDc-dvi&export=download&authuser=0&confirm=t&uuid=fb78280d-aacf-494f-8916-7f490fde3f23&at=ALBwUglmKB27-QXZH-OTUPUM2xWl%3A1778496702171)
 
 > [!CAUTION]
 > **Napomena:** Zbog veličine fajla (3.3GB),
