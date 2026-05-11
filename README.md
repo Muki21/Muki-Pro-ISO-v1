@@ -101,7 +101,7 @@ Klikni Apply i pusti ga da završi nakon restarta
 ## 📜 Post-Install Skripte
 Nakon prvog restarta dočekat će vas automatizovana **instalacija za Brave**
 - **PAŽLJIVO ČITAJTE** sve naredbe koje skripta ispisuje u konzoli
-- Nemojte gasiti prozor SKRIPTA SE SAMA BRISE
+- Ne gasiti prozor SKRIPTA SE SAMA BRISE (ako stane ENTER)
 
 ## ⚠️ Napomena
 Ovaj ISO je pravljen za maksimalne performanse i niske latencije
