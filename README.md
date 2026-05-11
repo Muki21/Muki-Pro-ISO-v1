@@ -47,10 +47,11 @@ Da bi sistem radio ispravno, u BIOS-u podesite sljedeće:
 
 ---
 
-💠 NAČIN B: Hirurška instalacija bez USB-a (Direktno iz ISO-a)
-Ovo je najnapredniji način da instaliraš Muki Pro bez USB fleške. Instaliraš novi sistem na malu particiju, a onda ga proširiš na cijeli disk
+### 💠 NAČIN B: Hirurška instalacija bez USB-a (Direktno iz ISO-a)
 
-1. Priprema particije:
+Instaliraš novi sistem na malu particiju, a onda ga proširiš na cijeli disk
+
+## 1. Priprema particije:
 
 Desni klik na Start -> Disk Management
 
@@ -60,7 +61,7 @@ Unesi 50000 (50GB) i klikni Shrink
 
 Od tog crnog prostora napravi novu particiju (New Simple Volume), formatiraj je kao NTFS i dodijeli joj slovo (npr. X:)
 
-2. Podešavanje u WinNTSetup alatu:
+## 2. Podešavanje u WinNTSetup alatu:
 
 Pokreni WinNTSetup
 
@@ -74,13 +75,13 @@ Važno: Desno pod "Option" označi "Drive letter preassignment" i postavi na C:.
 
 Klikni Setup -> OK
 
-3. Prelazak na novi sistem:
+## 3. Prelazak na novi sistem:
 
 Restartuj PC. Na ekranu za izbor sistema odaberi svoj novi Windows
 
 Kada uđeš u novi sistem, instaliraj osnovne drajvere (AMD drajver za RX 6500 XT)
 
-4. Brisanje starog Windowsa i spajanje diska:
+## 4. Brisanje starog Windowsa i spajanje diska:
 
 Sada kada si u novom sistemu, otvori Disk Management
 
