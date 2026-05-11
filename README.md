@@ -79,15 +79,17 @@ Klikni Setup -> OK
 
 Restartuj PC. Na ekranu za izbor sistema odaberi svoj novi Windows
 
-Kada uđeš u novi sistem, instaliraj osnovne drajvere (AMD drajver za RX 6500 XT)
+Kada uđeš u novi sistem, instaliraj osnovne drajvere 
 
 ## 4. Brisanje starog Windowsa i spajanje diska:
 
 Sada kada si u novom sistemu, otvori Disk Management
 
-Desni klik na particiju gdje je bio stari Windows (koja ti sad stoji kao višak) -> Format
+Desni klik na particiju gdje je bio stari Windows-> Format
 
-Da bi spojio tih 50GB sa ostatkom diska u jedan veliki C:, koristi MiniTool Partition Wizard
+Da bi spojio tih 50GB sa ostatkom diska u jedan veliki C:
+
+[![Download MiniTool Partition Wizard](https://img.shields.io/badge/DOWNLOAD-Direct%20Link-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://cdn2.minitool.com/?p=pw&e=pw-free)
 
 U njemu uradi desni klik na C: (50GB) -> Extend -> izvuci klizač do kraja da "proguta" formatiranu particiju
 
